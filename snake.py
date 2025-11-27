@@ -2,7 +2,7 @@
 
 #Razred polje je glavni razred v katerem se igrica igra
 #hrani razred kača, trenuten rezultat, 2d numpy matriko in koordinato polja, na katerem je hrana
-#razred polje je tudi razred, ki spremlja kaj uporabnik piše v konzolo
+#razred polje  je tudi razred, ki spremlja kaj uporabnik piše v konzolo
 #razred polje hrani igralno polje kot 2d numpy matriko; vse kordinate so koordinate v tej matriki
 #razred polje skrbi za izris igralnega polja
 
