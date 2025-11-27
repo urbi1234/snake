@@ -170,7 +170,7 @@ threading.Thread(target=skeniraj, daemon=True).start()
 
 
 while zivljenje():
-    time.sleep(0.5)
+    time.sleep(0.3)
     os.system('cls')
     premakni()
     naprintaj()
